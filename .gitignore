@@ -1,1 +1,10 @@
-知识库
+# 不发 GitHub
+chatbot/
+plans/
+skills 版本管理/
+.DS_Store
+
+# 知识库：只发 Skill 需要的部分
+知识库/legacy/
+知识库/主题索引/
+知识库/_预处理/
